@@ -19,3 +19,6 @@ end
 map("i", "jk", "<esc>", { desc = "Better Escape" })
 
 map("n", "<leader>zm", "<Cmd>:ZenMode<cr>", { desc = "Enter Zen Mode" })
+
+map("n", "<C-u>", "<C-u>zz", { desc = "Jump half page down and center", noremap = true })
+map("n", "<C-d>", "<C-d>zz", { desc = "Jump half page up and center", noremap = true })

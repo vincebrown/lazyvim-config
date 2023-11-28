@@ -9,4 +9,10 @@ return {
   { "marko-cerovac/material.nvim" },
   { "nyoom-engineering/oxocarbon.nvim" },
   { "NLKNguyen/papercolor-theme" },
+  { "AlexvZyl/nordic.nvim" },
+  { "Mofiqul/dracula.nvim" },
+  { "projekt0n/github-nvim-theme" },
+  { "frenzyexists/aquarium-vim" },
+  { "kvrohit/mellow.nvim" },
+  { "cryptomilk/nightcity.nvim" },
 }
