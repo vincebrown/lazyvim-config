@@ -11,4 +11,8 @@ return {
   { "NLKNguyen/papercolor-theme" },
   { "cryptomilk/nightcity.nvim" },
   { "kvrohit/mellow.nvim" },
+  { "AlexvZyl/nordic.nvim" },
+  { "Mofiqul/dracula.nvim" },
+  { "projekt0n/github-nvim-theme" },
+  { "frenzyexists/aquarium-vim" },
 }
