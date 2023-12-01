@@ -15,4 +15,13 @@ return {
   { "Mofiqul/dracula.nvim" },
   { "projekt0n/github-nvim-theme" },
   { "frenzyexists/aquarium-vim" },
+  { "ajmwagar/vim-deus" },
+  { "ribru17/bamboo.nvim" },
+  { "zootedb0t/citruszest.nvim" },
+  { "miikanissi/modus-themes.nvim" },
+  { "nanotech/jellybeans.vim" },
+  { "oxfist/night-owl.nvim" },
+  { "pineapplegiant/spaceduck" },
+  { "flrnd/plastic.vim" },
+  { "crispybaccoon/aurora" },
 }
